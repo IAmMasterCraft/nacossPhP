@@ -32,6 +32,7 @@
         // var_dump($multiplication);
         // echo $numberA++;
         // //11
+    //
         // echo "<hr>";
         // echo ++$numberA;
         // echo "<hr>";
